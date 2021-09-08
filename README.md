@@ -1,2 +1,2 @@
 # to-doList
-To-doList website
+To-doList website using Express and MongoDB
